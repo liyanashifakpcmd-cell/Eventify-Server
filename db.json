@@ -1,0 +1,85 @@
+{
+  "events": [
+    {
+      "title": "techFest",
+      "category": "College",
+      "date": "2026-10-23",
+      "location": "calicut",
+      "description": "A technology event featuring coding competitions, workshops, and project presentations.",
+      "budget": 20000,
+      "status": "Upcoming",
+      "id": "BJNqo4EFvgg"
+    },
+    {
+      "title": "wedding day",
+      "category": "Wedding",
+      "date": "2026-10-31",
+      "location": "kochi",
+      "description": "sert to overall",
+      "budget": 30000,
+      "status": "Upcoming",
+      "id": "kjfIh2JuX_w"
+    },
+    {
+      "title": "oiuhuigiy",
+      "category": "Seminar",
+      "date": "2026-11-07",
+      "location": "kochi",
+      "description": "ihgythfxdcfvgbhnjmk,m n",
+      "budget": 87876543,
+      "status": "Upcoming",
+      "id": "4VmY_il0vIo"
+    }
+  ],
+  "registrations": [
+    {
+      "name": "liya",
+      "email": "liyana@gmail.com",
+      "eventId": "BJNqo4EFvgg",
+      "eventTitle": "techFest",
+      "registeredAt": "2026-10-18T19:42:12.275Z",
+      "id": "lJIZX1k8igY"
+    },
+    {
+      "name": "rani",
+      "email": "rani123@gmail.com",
+      "eventId": "BJNqo4EFvgg",
+      "eventTitle": "techFest",
+      "registeredAt": "2026-10-18T20:06:35.750Z",
+      "id": "zD_jghQ1gS0"
+    },
+    {
+      "name": "jabzul kareem",
+      "email": "jabz@gmail.com",
+      "eventId": "kjfIh2JuX_w",
+      "eventTitle": "wedding day",
+      "registeredAt": "2026-10-18T20:14:22.907Z",
+      "id": "yrgCYnC7maM"
+    },
+    {
+      "name": "kugyjfhtx",
+      "email": "jyfvhtd@gmai.com",
+      "eventId": "4VmY_il0vIo",
+      "eventTitle": "oiuhuigiy",
+      "registeredAt": "2026-10-19T12:19:06.119Z",
+      "id": "hrbUJexIE9M"
+    },
+    {
+      "name": "kugyjfhtx",
+      "email": "kugyjfhtx@gmail.com",
+      "eventId": "4VmY_il0vIo",
+      "eventTitle": "oiuhuigiy",
+      "registeredAt": "2026-10-19T12:20:07.810Z",
+      "id": "5q5bdBOwK_U"
+    },
+    {
+      "name": "kugyjfhtx",
+      "email": "kjkh@gmail.com",
+      "eventId": "4VmY_il0vIo",
+      "eventTitle": "oiuhuigiy",
+      "registeredAt": "2026-10-19T12:22:07.100Z",
+      "id": "FDxyhHcgjn0"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
